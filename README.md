@@ -12,7 +12,7 @@ shown an output screen which displays their final total alongside multiple tax o
 Before beginning using this applicaiton, you need to have Java installed, on your computer.
 
 ### Getting Started:
-To access our games, you will need to run the main.java file with Java. To do this, follow the steps below:
+To access our kiosk, you will need to run the main.java file with Java. To do this, follow the steps below:
 1. Clone our entire GitHub repository using the following link  (https://github.com/SKel1817/CSI2300_Final_project)
 2. Open your command prompt or terminal and navigate to the directory where you saved the project.
 3. Run the “Main.java” file using Java to start PAUL.
