@@ -14,7 +14,7 @@ Before beginning using this applicaiton, you need to have Java installed, on you
 
 ### Getting Started:
 To access our kiosk, you will need to run the main.java file with Java. To do this, follow the steps below:
-1. Clone our entire GitHub repository using the following link  (https://github.com/SKel1817/CSI2300_Final_project)
+1. Clone our entire GitHub repository using the following link  (https://github.com/SKel1817/Java-Talking-Tacos)
 2. Open your command prompt or terminal and navigate to the directory where you saved the project.
 3. Run the “Main.java” file using Java to start using the The java walking taco kiosk.
 
@@ -22,4 +22,4 @@ To access our kiosk, you will need to run the main.java file with Java. To do th
 Once you run Main.java it will open a GUI windo with the buttons "Place an Order" and "employee", after clicking either these you can naviagate to the terminal to continue to "place your order" or to clock in/out with your name and the time. 
 
 ### Support: 
-If you encounter any issues while please let us know by submitting an issue at: https://github.com/SKel1817/CSI2300_Final_project/issues
+If you encounter any issues while please let us know by submitting an issue at:https://github.com/SKel1817/Java-Talking-Tacos/issues
