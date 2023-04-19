@@ -1,6 +1,7 @@
-# CSI2300_Final_project
+# Java Talking Tacos
 
 ### Introduction: 
+This is a final project for 2300.
 Our project is an ordering system and an employee clocking system for a Taco Truck. An
 employee or manager is able to enter a username and password. After entering these things the
 person is able to select their name and choose to clock in or clock out. Also, the user can click
