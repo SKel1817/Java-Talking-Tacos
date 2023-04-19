@@ -220,7 +220,7 @@ class Orders {
           okButton.setHorizontalAlignment(JButton.CENTER);
           okButton.setVerticalAlignment(JButton.CENTER);
 
-          //add to grid
+          //add to grid!
           JPanel controlPanel = new JPanel();
           controlPanel.setLayout(new GridLayout(10,1));
 
